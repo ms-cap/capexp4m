@@ -128,7 +128,7 @@
     <AndroidResource Include="Resources\drawable-xxhdpi\icon.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\capexp4m\capexp4m.Core.csproj">
+    <ProjectReference Include="..\capexp4m.Core\capexp4m.Core.csproj">
       <Project>{82372861-0A0A-4BFC-BDC2-460FFF7B3D4A}</Project>
       <Name>capexp4m.Core</Name>
     </ProjectReference>

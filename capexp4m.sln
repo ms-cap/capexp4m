@@ -1,11 +1,11 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "capexp4m.Core", "capexp4m\capexp4m.Core.csproj", "{82372861-0A0A-4BFC-BDC2-460FFF7B3D4A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "capexp4m.Core", "capexp4m.Core\capexp4m.Core.csproj", "{82372861-0A0A-4BFC-BDC2-460FFF7B3D4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "capexp4m.iOS", "iOS\capexp4m.iOS.csproj", "{96BF83AD-B7D0-41F2-B450-9C7987F07F4F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "capexp4m.iOS", "capexp4m.iOS\capexp4m.iOS.csproj", "{96BF83AD-B7D0-41F2-B450-9C7987F07F4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "capexp4m.Droid", "Droid\capexp4m.Droid.csproj", "{ED2E17CF-C08C-4906-8BB5-292BA74B3EC6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "capexp4m.Droid", "capexp4m.Droid\capexp4m.Droid.csproj", "{ED2E17CF-C08C-4906-8BB5-292BA74B3EC6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
